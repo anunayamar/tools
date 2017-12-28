@@ -15,3 +15,11 @@ lens = train.comment_text.str.len()
 print (lens.mean(), lens.std(), lens.max())
 
 lens.hist()
+
+#Create new columns
+label_cols = ['human', 'animal', 'bird']
+train['none'] = 1-train[label_cols].max(axis=1)
+print (train.describe())
+
+#Displaying number of rows
+print (len(train))
