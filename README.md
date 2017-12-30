@@ -1,8 +1,15 @@
 # Tools
 
 
-# read_csv_panda.py
+1) read_csv_panda.py
 It contains sample code that explains how to use panda to read csv file.
+
+2) PANDAS_CSV_DEMO.ipynb
+Shows how to use Dataframe and Series in panda. Also, shows how to read a csv file.
+
+3) unicodecsv_datatypes_matplot.ipynb
+Shows how to use unicodecsv to read a csv file and how to use matpotlib.
+
 
 
 # How to use jupyter notebook?
