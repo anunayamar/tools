@@ -33,3 +33,6 @@ jupyter notebook
 
 Then copy the link from the output console and paste it on the browser.
 
+# Resources
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
