@@ -1,0 +1,45 @@
+#CUDA installation (Ubuntu)
+
+1. Download the deb file from:
+https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=deblocal
+
+2. Check whether you already have cuda installed, if no follow the rest of the steps for the installation:
+nvcc --version
+
+3. Execute the following commands:
+  
+  a) sudo dpkg -i cuda-repo-ubuntu1604-9-1-local_9.1.85-1_amd64.deb
+  b) sudo apt-key add /var/cuda-repo-9-1-local/7fa2af80.pub
+  c) sudo apt-get update
+  d) sudo apt-get install cuda
+  
+  'sudo apt-get install cuda' was giving me some dependency error while installation.
+  
+  To overcome the error use the following commands:
+  
+  a) sudo apt-get install aptitude
+  b) sudo aptitude install cuda
+  
+  When you will execute 'sudo aptitude install cuda', the commad will give you various options to resolve the dependencies.
+  Read the options and make sure you choose the correct options that will lead to the installation of all the dependencies.
+  
+ 4. Edit the bashrc:
+ 
+    gedit ~/.bashrc 
+    
+    Add the following lines at the bottom of the file:
+    
+    #For cuda
+    export PATH=/usr/local/cuda-9.1/bin:$PATH
+    export LD_LIBRARY_PATH=/usr/local/cuda-9.1/lib64:$LD_LIBRARY_PATH
+    
+ 5. Execute the following command:
+  
+    source ~/.bashrc
+    
+ 6. Now check whether you have successfully installed the cuda compiler:
+  
+    nvcc --version
+    
+ 7. Reboot the machine and you are done.
+  
