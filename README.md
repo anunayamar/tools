@@ -40,4 +40,4 @@ Go through the guide to install CUDA in ubuntu
 # Resources
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
 https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
-
+Machine Learning Frameworks: https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
