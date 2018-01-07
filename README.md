@@ -42,3 +42,5 @@ https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgb
 https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
 
 Machine Learning Frameworks: https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
+
+LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
