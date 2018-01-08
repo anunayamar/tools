@@ -1,5 +1,6 @@
 # Tools
 
+## How to use pandas?
 
 1) read_csv_panda.py
 
@@ -15,32 +16,38 @@ Shows how to use unicodecsv to read a csv file and how to use matpotlib.
 
 
 
-# How to use jupyter notebook?
+## How to use jupyter notebook?
 
-1. You can install it using:
-
-a) conda install jupyter notebook
-
+1) You can install it using:
+```
+conda install jupyter notebook
+```
 or 
 
-b) pip3.6 install jupyter notebook
+```
+pip3.6 install jupyter notebook
+```
+
 (Use pip3.6 if you are using python 3.6 installation)
 
 2) How to launch jupyter notebook?
 Go to the directory where you would like to save the notebook file and execute the following command:
-
+```
 jupyter notebook
-
+```
 Then copy the link from the output console and paste it on the browser.
 
-# CUDA installation guide for ubuntu
+## CUDA installation guide for ubuntu
 
 Go through the guide to install CUDA in ubuntu
 
-# Resources
+## Resources
 https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
 https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/
 
 Machine Learning Frameworks: https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
 
 LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+ML Projects: https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
