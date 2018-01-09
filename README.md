@@ -49,5 +49,6 @@ https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gra
 Machine Learning Frameworks: https://deeplearning4j.org/compare-dl4j-tensorflow-pytorch
 
 LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+LSTM: http://philipperemy.github.io/keras-stateful-lstm/
 
 ML Projects: https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
