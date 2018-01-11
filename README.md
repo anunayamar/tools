@@ -52,3 +52,5 @@ LSTM: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 LSTM: http://philipperemy.github.io/keras-stateful-lstm/
 
 ML Projects: https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
+
+Popular Word Embedding Techniques: https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
