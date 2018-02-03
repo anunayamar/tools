@@ -8,3 +8,5 @@ Christopher Manning Youtube video series: https://www.youtube.com/playlist?list=
 NLTK WordNet NLP: http://www.nltk.org/howto/wordnet.html
 
 Very Good Video on LDA (Topic modelling algorithm): https://www.youtube.com/watch?v=3mHy4OSyRf0
+
+Gensim Wikipedia Experiment: https://radimrehurek.com/gensim/wiki.html
