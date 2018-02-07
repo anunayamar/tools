@@ -1,5 +1,6 @@
 # Introduction to natural language processing using NLTK
 
+**Note: Python Notebook has been taken from **https://www.coursera.org/learn/python-text-mining
 ## Resources:
 https://www.coursera.org/learn/python-text-mining
 
