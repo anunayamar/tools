@@ -1,24 +1,26 @@
 # Tools
 
+## Code Sources:
+
+1. Applied Plotting, Charting & Data Representation in Python, University of Michigan, Coursera
+
 ## How to use pandas?
 
-1) read_csv_panda.py
+1. read_csv_panda.py
+   It contains sample code that explains how to use panda to read csv file.
 
-It contains sample code that explains how to use panda to read csv file.
+2. PANDAS_CSV_DEMO.ipynb
+   Shows how to use Dataframe and Series in panda. Also, shows how to read a csv file.
 
-2) PANDAS_CSV_DEMO.ipynb
-
-Shows how to use Dataframe and Series in panda. Also, shows how to read a csv file.
-
-3) unicodecsv_datatypes_matplot.ipynb
-
-Shows how to use unicodecsv to read a csv file and how to use matpotlib.
+3. unicodecsv_datatypes_matplot.ipynb
+   Shows how to use unicodecsv to read a csv file and how to use matpotlib.
 
 
 
 ## How to use jupyter notebook?
 
-1) You can install it using:
+1. You can install it using:
+
 ```
 conda install jupyter notebook
 ```
@@ -30,7 +32,7 @@ pip3.6 install jupyter notebook
 
 (Use pip3.6 if you are using python 3.6 installation)
 
-2) How to launch jupyter notebook?
+2. How to launch jupyter notebook?
 Go to the directory where you would like to save the notebook file and execute the following command:
 ```
 jupyter notebook
