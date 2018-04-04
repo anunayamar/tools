@@ -56,3 +56,7 @@ LSTM: http://philipperemy.github.io/keras-stateful-lstm/
 ML Projects: https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
 
 Popular Word Embedding Techniques: https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+
+NLP Resources (Very Good): https://learn-anything.xyz/1207
+
+Quick Notes on NLP (awesome): http://frnsys.com/ai_notes/machine_learning/natural_language_processing.html
