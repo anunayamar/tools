@@ -60,3 +60,5 @@ Popular Word Embedding Techniques: https://www.analyticsvidhya.com/blog/2017/06/
 NLP Resources (Very Good): https://learn-anything.xyz/1207
 
 Quick Notes on NLP (awesome): http://frnsys.com/ai_notes/machine_learning/natural_language_processing.html
+
+Kaggle Machine Learning and other tutorials: https://www.kaggle.com/learn/overview
